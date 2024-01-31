@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **cibaneza@uft.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FqZ5TfeLi3lAm8_8QxldAByuoUQLRpjm/view?usp=sharing](https://drive.google.com/file/d/1FqZ5TfeLi3lAm8_8QxldAByuoUQLRpjm/view?usp=sharing)
+- 📄 Get my CV [https://drive.google.com/file/d/1FqZ5TfeLi3lAm8_8QxldAByuoUQLRpjm/view?usp=sharing](https://drive.google.com/file/d/1FqZ5TfeLi3lAm8_8QxldAByuoUQLRpjm/view?usp=sharing)
 
 - ⚡ Fun fact **I read more Statistics books than other topics.**
 
