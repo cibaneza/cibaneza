@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Carlos Ibáñez</h1>
 <h3 align="center">A passionate Data Analyst and Developer from Chile</h3>
 <img align="right" alt="AI" width="400" src="https://assets-global.website-files.com/624ac40503a527cf47af4192/65313084ff0fb3453089947e_giphy.gif">
